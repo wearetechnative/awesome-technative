@@ -18,7 +18,7 @@ Curated list of resources engineers need to know when working at TechNative.
 
 <!-- description -->
 
-We at [TechNative](https://technative.nl) help organizations optimizing their cloud.
+We at [TechNative](https://technative.nl) help organizations with optimizing their cloud.
 
 </div>
 
