@@ -26,11 +26,18 @@ We at [TechNative](https://technative.nl) help organizations to  optimized their
 
 ## Contents
 
-- [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
+- [Learn](#learn)
+- [Code Repositories](#code-repositories)
+- [Social](#social)
 - [Follow](#follow)
 
 <!-- CONTENT -->
+
+## Learn
+
+- https://learn.finops.org - FinOps Certification and Training pages
+- https://www.lpi.org - Linux Professional Institute for professional Linux Certification
+- https://github.com/ptcodes/awesome-aws-certifications - A curated list of AWS certification materials: videos courses, practice exams, prep tips, etc.
 
 ## Code Repositories
 
@@ -46,7 +53,9 @@ We at [TechNative](https://technative.nl) help organizations to  optimized their
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
-Who else should we be following!?
+- https://twitter.com/basanneveld - Bas Anneveld
+- https://www.linkedin.com/in/walterlinkedin/ - Walter van der Harst
+- https://twitter.com/mipselaer - Pim Snel
 
 ## Contributing
 
