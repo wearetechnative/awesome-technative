@@ -18,7 +18,7 @@ Curated list of resources engineers need to know when working at TechNative.
 
 <!-- description -->
 
-We at [TechNative](https://technative.nl) help organizations to  optimized their cloud.
+We at [TechNative](https://technative.nl) help organizations optimizing their cloud.
 
 </div>
 
@@ -41,21 +41,21 @@ We at [TechNative](https://technative.nl) help organizations to  optimized their
 
 ## Code Repositories
 
-- https://github.com/TechNative-B-V - TechNative's GitHub
-- https://gitlab.com/technative - TechNative's GitLab group
+- https://github.com/TechNative-B-V - TechNative's GitHub repositories.
+- https://gitlab.com/technative - TechNative's GitLab repositories.
 
 ## Social
 
-- https://www.linkedin.com/company/technative-bv - TechNative LinkedIn page
-- https://twitter.com/TechnativeB - TechNative's Twitter
+- https://www.linkedin.com/company/technative-bv - TechNative LinkedIn page.
+- https://twitter.com/TechnativeB - TechNative's Twitter channel.
 
 ## Follow
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
-- https://twitter.com/basanneveld - Bas Anneveld
-- https://www.linkedin.com/in/walterlinkedin/ - Walter van der Harst
-- https://twitter.com/mipselaer - Pim Snel
+- https://twitter.com/basanneveld - Bas Anneveld's twitter page.
+- https://www.linkedin.com/in/walterlinkedin/ - Walter van der Harst's linkedIn page.
+- https://twitter.com/mipselaer - Pim Snel's twitter account.
 
 ## Contributing
 
@@ -64,3 +64,7 @@ We at [TechNative](https://technative.nl) help organizations to  optimized their
 ### Contributors
 
 [Thanks goes to these contributors](https://github.com/TechNative-B-V/awesome-technative/graphs/contributors)!
+
+## Copyright
+
+©2022 [TechNative B.V.](https://technative.nl) - The TechNative Logo the TechNative Cool Guy are protected trademarks. Other content is available under a [Apache License](./license).
