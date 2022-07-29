@@ -33,6 +33,11 @@ We at [TechNative](https://technative.nl) help organizations with optimizing the
 
 <!-- CONTENT -->
 
+## AWS Utilities
+
+- https://github.com/gruntwork-io/cloud-nuke - Cloud cleanup cli utility. Removes a large set of AWS resources.
+- https://github.com/jckuester/awsweeper - A tool for cleaning your AWS account. Removes even more resources, but need configuration first.
+
 ## Learn
 
 - https://learn.finops.org - FinOps Certification and Training pages
