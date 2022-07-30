@@ -46,8 +46,9 @@ We at [TechNative](https://technative.nl) help organizations with optimizing the
 
 ### Utilities
 
-- https://github.com/gruntwork-io/cloud-nuke - Cloud cleanup cli utility. Removes a large set of AWS resources.
-- https://github.com/jckuester/awsweeper - A tool for cleaning your AWS account. Removes even more resources, but need configuration first.
+- https://github.com/gruntwork-io/cloud-nuke - Cloud cleanup cli utility. Removes a large set of AWS resources. [![stars](https://badgen.net/github/stars/gruntwork-io/cloud-nuke)](https://badgen.net/github/stars/gruntwork-io/cloud-nuke)
+- https://github.com/jckuester/awsweeper - A tool for cleaning your AWS account. Removes even more resources, but need configuration first. [![stars](https://badgen.net/github/stars/jckuester/awsweeper)](https://badgen.net/github/stars/jckuester/awsweeper)
+
 
 ### YouTube Channels
 
@@ -91,9 +92,12 @@ Community Channels:
 
 ## Other Awesome Lists
 
-- https://github.com/donnemartin/awesome-aws - A curated list of awesome AWS libraries, open source repos, guides, blogs, and other resources.
+- https://github.com/donnemartin/awesome-aws - A curated list of awesome AWS libraries, open source repos, guides, blogs, and other resources. [![stars](https://badgen.net/github/stars/donnemartin/awesome-aws)](https://badgen.net/github/stars/donnemartin/awesome-aws)
 - https://github.com/ptcodes/awesome-aws-certifications - A curated list of AWS certification materials: videos courses, practice exams, prep tips, etc. [![stars](https://badgen.net/github/stars/ptcodes/awesome-aws-certifications)](https://badgen.net/github/stars/ptcodes/awesome-aws-certifications)
 - https://github.com/toniblyx/my-arsenal-of-aws-security-tools - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc... [![stars](https://badgen.net/github/stars/toniblyx/my-arsenal-of-aws-security-tools)](https://badgen.net/github/stars/toniblyx/my-arsenal-of-aws-security-tools)
+
+FinOps 🤔
+
 - https://github.com/cloudfinops/awesome-finops - A curated list of awesome things related to FinOps. [![stars](https://badgen.net/github/stars/cloudfinops/awesome-finops)](https://badgen.net/github/stars/cloudfinops/awesome-finops)
 - https://github.com/jmfontaine/awesome-finops - A curated list of awesome FinOps resources. [![stars](https://badgen.net/github/stars/jmfontaine/awesome-finops)](https://badgen.net/github/stars/jmfontaine/awesome-finops)
 
