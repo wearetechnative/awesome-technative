@@ -26,41 +26,79 @@ We at [TechNative](https://technative.nl) help organizations with optimizing the
 
 ## Contents
 
-- [Learn](#learn)
-- [Code Repositories](#code-repositories)
-- [Social](#social)
-- [Follow](#follow)
+* [AWS](#aws)
+   * [Utilities](#utilities)
+   * [YouTube Channels](#youtube-channels)
+* [FinOps](#finops)
+* [Get certified](#get-certified)
+* [Code Repositories](#code-repositories)
+* [News](#news)
+* [People and social](#people-and-social)
+* [Other Awesome Lists](#other-awesome-lists)
+* [Contributing](#contributing)
+   * [Contributors](#contributors)
+* [Copyright](#copyright)
+
 
 <!-- CONTENT -->
 
-## AWS Utilities
+## AWS
+
+### Utilities
 
 - https://github.com/gruntwork-io/cloud-nuke - Cloud cleanup cli utility. Removes a large set of AWS resources.
 - https://github.com/jckuester/awsweeper - A tool for cleaning your AWS account. Removes even more resources, but need configuration first.
 
-## Learn
+### YouTube Channels
+
+* [AmazonWebServices](https://www.youtube.com/user/AmazonWebServices)
+* [AWSTutorialSeries](https://www.youtube.com/user/awstutorialseries)
+* [AWSWebinars](https://www.youtube.com/user/AWSwebinars)
+
+Community Channels:
+
+* [Backspace Academy](https://www.youtube.com/channel/UCav3fsasRc5VOqvZiT5avgw)
+* [Cloud Academy](https://www.youtube.com/channel/UCeRY0LppLWdxWAymRANTb0g/videos)
+
+## FinOps
+
+- https://www.finops.org - The FinOps Foundation.
+
+## Get certified
 
 - https://learn.finops.org - FinOps Certification and Training pages
 - https://www.lpi.org - Linux Professional Institute for professional Linux Certification
-- https://github.com/ptcodes/awesome-aws-certifications - A curated list of AWS certification materials: videos courses, practice exams, prep tips, etc.
 
 ## Code Repositories
 
 - https://github.com/TechNative-B-V - TechNative's GitHub repositories.
 - https://gitlab.com/technative - TechNative's GitLab repositories.
 
-## Social
+## News
 
-- https://www.linkedin.com/company/technative-bv - TechNative LinkedIn page.
-- https://twitter.com/TechnativeB - TechNative's Twitter channel.
+- https://news.ycombinator.com
 
-## Follow
+## People and social
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
+- https://www.linkedin.com/company/technative-bv - TechNative LinkedIn page.
+- https://twitter.com/TechnativeB - TechNative's Twitter channel.
 - https://twitter.com/basanneveld - Bas Anneveld's twitter page.
 - https://www.linkedin.com/in/walterlinkedin/ - Walter van der Harst's linkedIn page.
 - https://twitter.com/mipselaer - Pim Snel's twitter account.
+- https://github.com/donnemartin/awesome-aws#linkedin-groups - Listing of AWS linkedIn Groups.
+
+## Other Awesome Lists
+
+- https://github.com/donnemartin/awesome-aws - A curated list of awesome AWS libraries, open source repos, guides, blogs, and other resources.
+- https://github.com/ptcodes/awesome-aws-certifications - A curated list of AWS certification materials: videos courses, practice exams, prep tips, etc. [![stars](https://badgen.net/github/stars/ptcodes/awesome-aws-certifications)](https://badgen.net/github/stars/ptcodes/awesome-aws-certifications)
+- https://github.com/toniblyx/my-arsenal-of-aws-security-tools - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc... [![stars](https://badgen.net/github/stars/toniblyx/my-arsenal-of-aws-security-tools)](https://badgen.net/github/stars/toniblyx/my-arsenal-of-aws-security-tools)
+- https://github.com/cloudfinops/awesome-finops - A curated list of awesome things related to FinOps. [![stars](https://badgen.net/github/stars/cloudfinops/awesome-finops)](https://badgen.net/github/stars/cloudfinops/awesome-finops)
+- https://github.com/jmfontaine/awesome-finops - A curated list of awesome FinOps resources. [![stars](https://badgen.net/github/stars/jmfontaine/awesome-finops)](https://badgen.net/github/stars/jmfontaine/awesome-finops)
+
+
+Other awesome lists can be found in [awesome](https://github.com/sindresorhus/awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 
 ## Contributing
 
