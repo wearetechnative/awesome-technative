@@ -100,7 +100,7 @@ Community Channels:
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
 - https://www.linkedin.com/company/technative-bv - TechNative LinkedIn page.
-- https://twitter.com/TechnativeB - TechNative's Twitter channel.
+- https://twitter.com/TechnativeBV - TechNative's Twitter channel.
 - https://twitter.com/basanneveld - Bas Anneveld's twitter page.
 - https://www.linkedin.com/in/walterlinkedin/ - Walter van der Harst's linkedIn page.
 - https://twitter.com/mipselaer - Pim Snel's twitter account.
