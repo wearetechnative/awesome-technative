@@ -28,17 +28,20 @@ We at [TechNative](https://technative.nl) help organizations with optimizing the
 
 * [AWS](#aws)
    * [Utilities](#utilities)
+   * [EC2](#ec2)
    * [YouTube Channels](#youtube-channels)
 * [FinOps](#finops)
-* [Get certified](#get-certified)
+* [Learn and get certified](#learn-and-get-certified)
+   * [Terraform](#terraform)
+* [Diagramming](#diagramming)
 * [Code Repositories](#code-repositories)
 * [News](#news)
 * [People and social](#people-and-social)
 * [Other Awesome Lists](#other-awesome-lists)
+   * [FinOps <g-emoji class="g-emoji" alias="thinking" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png">🤔</g-emoji>](#finops-)
 * [Contributing](#contributing)
    * [Contributors](#contributors)
 * [Copyright](#copyright)
-
 
 <!-- CONTENT -->
 
@@ -74,14 +77,18 @@ Community Channels:
 - https://learn.finops.org - FinOps Certification and Training pages
 - https://www.lpi.org - Linux Professional Institute for professional Linux Certification
 
-## Code Repositories
+### Terraform
 
-- https://github.com/TechNative-B-V - TechNative's GitHub repositories.
-- https://gitlab.com/technative - TechNative's GitLab repositories.
+- https://registry.terraform.io/providers/hashicorp/aws/latest/docs - AWS Provider for Terraform documentation.
 
 ## Diagramming
 
 - https://draw.io - Free online diagramming tool.
+
+## Code Repositories
+
+- https://github.com/TechNative-B-V - TechNative's GitHub repositories.
+- https://gitlab.com/technative - TechNative's GitLab repositories.
 
 ## News
 
