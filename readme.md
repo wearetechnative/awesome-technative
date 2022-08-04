@@ -94,7 +94,7 @@ Community Channels:
 
 ## News
 
-- [Hacker News](https://news.ycombinator.com) - Social news website about computer science and "Anything that gratifies one's intellectual curiosity."
+- [Hacker News](https://news.ycombinator.com) - Social news about computer science and "Anything that gratifies one's intellectual curiosity."
 - [Infra Weekly](https://infraweekly.substack.com) - IT Infrastructure Weekly News.
 
 ## People and social
