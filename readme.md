@@ -50,8 +50,8 @@ We at [TechNative](https://technative.nl) help organizations with optimizing the
 ### Utilities
 
 - [Cloud Nuke](https://github.com/gruntwork-io/cloud-nuke) - Cloud cleanup cli utility. Removes a large set of AWS resources. [![stars](https://badgen.net/github/stars/gruntwork-io/cloud-nuke)](https://badgen.net/github/stars/gruntwork-io/cloud-nuke)
-- [AWSweeper](https://github.com/jckuester/awsweeper) - A tool for cleaning your AWS account. Removes even more resources, but need configuration first. [![stars](https://badgen.net/github/stars/jckuester/awsweeper)](https://badgen.net/github/stars/jckuester/awsweeper)
-- [AWS Extend Switch Roles](https://github.com/tilfinltd/aws-extend-switch-roles) - Firefox, Chrome and Edge Extension for easily switching AWS Account and Roles. [![stars](https://badgen.net/github/stars/tilfinltd/aws-extend-switch-roles)](https://badgen.net/github/stars/tilfinltd/aws-extend-switch-roles)
+- [AWSweeper](https://github.com/jckuester/awsweeper) - A tool for cleaning your AWS account. [![stars](https://badgen.net/github/stars/jckuester/awsweeper)](https://badgen.net/github/stars/jckuester/awsweeper)
+- [AWS Extend Switch Roles](https://github.com/tilfinltd/aws-extend-switch-roles) - Firefox, Chrome & Edge extension for easily switching AWS accounts. [![stars](https://badgen.net/github/stars/tilfinltd/aws-extend-switch-roles)](https://badgen.net/github/stars/tilfinltd/aws-extend-switch-roles)
 
 ### EC2
 
@@ -110,9 +110,9 @@ Community Channels:
 
 ## Other Awesome Lists
 
-- [Awesome AWS](https://github.com/donnemartin/awesome-aws) - A curated list of awesome AWS libraries, open source repos, guides, blogs, and other resources. [![stars](https://badgen.net/github/stars/donnemartin/awesome-aws)](https://badgen.net/github/stars/donnemartin/awesome-aws)
-- [Awesome AWS Certification](https://github.com/ptcodes/awesome-aws-certifications) - A curated list of AWS certification materials: videos courses, practice exams, prep tips, etc. [![stars](https://badgen.net/github/stars/ptcodes/awesome-aws-certifications)](https://badgen.net/github/stars/ptcodes/awesome-aws-certifications)
-- [AWS Security Tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc... [![stars](https://badgen.net/github/stars/toniblyx/my-arsenal-of-aws-security-tools)](https://badgen.net/github/stars/toniblyx/my-arsenal-of-aws-security-tools)
+- [Awesome AWS](https://github.com/donnemartin/awesome-aws) - List of awesome AWS libraries, OSS repos, guides, blogs, and other resources. [![stars](https://badgen.net/github/stars/donnemartin/awesome-aws)](https://badgen.net/github/stars/donnemartin/awesome-aws)
+- [Awesome AWS Certification](https://github.com/ptcodes/awesome-aws-certifications) - List of AWS certification materials: videos courses, practice exams, prep tips, etc. [![stars](https://badgen.net/github/stars/ptcodes/awesome-aws-certifications)](https://badgen.net/github/stars/ptcodes/awesome-aws-certifications)
+- [AWS Security Tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of OSS tools for AWS security: defensive, offensive, auditing, DFIR, etc... [![stars](https://badgen.net/github/stars/toniblyx/my-arsenal-of-aws-security-tools)](https://badgen.net/github/stars/toniblyx/my-arsenal-of-aws-security-tools)
 - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems.
 
 ### FinOps 🤔
