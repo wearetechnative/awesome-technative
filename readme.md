@@ -94,7 +94,7 @@ Community Channels:
 
 ## News
 
-- [Hacker News](https://news.ycombinator.com) - A social news website focusing on computer science and "Anything that gratifies one's intellectual curiosity."
+- [Hacker News](https://news.ycombinator.com) - Social news website about computer science and "Anything that gratifies one's intellectual curiosity."
 - [Infra Weekly](https://infraweekly.substack.com) - IT Infrastructure Weekly News.
 
 ## People and social
@@ -111,9 +111,9 @@ Community Channels:
 ## Other Awesome Lists
 
 - [Awesome AWS](https://github.com/donnemartin/awesome-aws) - List of awesome AWS libraries, OSS repos, guides, blogs, and other resources. [![stars](https://badgen.net/github/stars/donnemartin/awesome-aws)](https://badgen.net/github/stars/donnemartin/awesome-aws)
-- [Awesome AWS Certification](https://github.com/ptcodes/awesome-aws-certifications) - List of AWS certification materials: videos courses, practice exams, prep tips, etc. [![stars](https://badgen.net/github/stars/ptcodes/awesome-aws-certifications)](https://badgen.net/github/stars/ptcodes/awesome-aws-certifications)
+- [Awesome AWS Certification](https://github.com/ptcodes/awesome-aws-certifications) - List of AWS learning materials: videos, practice exams, tips, etc. [![stars](https://badgen.net/github/stars/ptcodes/awesome-aws-certifications)](https://badgen.net/github/stars/ptcodes/awesome-aws-certifications)
 - [AWS Security Tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of OSS tools for AWS security: defensive, offensive, auditing, DFIR, etc... [![stars](https://badgen.net/github/stars/toniblyx/my-arsenal-of-aws-security-tools)](https://badgen.net/github/stars/toniblyx/my-arsenal-of-aws-security-tools)
-- [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems.
+- [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems. [![stars](https://badgen.net/github/stars/binhnguyennus/awesome-scalability)](https://badgen.net/github/stars/binhnguyennus/awesome-scalability)
 
 ### FinOps 🤔
 
