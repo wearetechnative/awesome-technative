@@ -108,14 +108,11 @@ Community Channels:
 - [@mipselaer](https://twitter.com/mipselaer) - Pim Snel's twitter account.
 - [AWS LinkedIn Groups](https://github.com/donnemartin/awesome-aws#linkedin-groups) - Listing of AWS linkedIn Groups.
 
-<!--
 ## Friendly Compatitors
 
 - [Truss](https://truss.works) -  San Francisco based cloud managed services company, with nice [Github](https://github.com/trussworks).
 - [Nuvibut](https://nuvibit.com) - Swiss based cloud managed services company, with [OSS stuff about terraform Workflows](https://github.com/postch/github-terraform-workflows).
-
--->
-
+- [Cloud Posse](https://cloudposse.com) - Houston bases cloud managed services company, with a [many OSS projects](https://github.com/cloudposse).
 
 ## Other Awesome Lists
 
