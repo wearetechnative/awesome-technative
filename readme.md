@@ -123,6 +123,7 @@ Community Channels:
 - [AWS Security Tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of OSS tools for AWS security: defensive, offensive, auditing, DFIR, etc... [![stars](https://badgen.net/github/stars/toniblyx/my-arsenal-of-aws-security-tools)](https://badgen.net/github/stars/toniblyx/my-arsenal-of-aws-security-tools)
 - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems. [![stars](https://badgen.net/github/stars/binhnguyennus/awesome-scalability)](https://badgen.net/github/stars/binhnguyennus/awesome-scalability)
 - [Awesome Terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform. [![stars](https://badgen.net/github/stars/shuaibiyy/awesome-terraform)](https://badgen.net/github/stars/shuaibiyy/awesome-terraform)
+- [Awesome Readme](https://github.com/matiassingers/awesome-readme) -  A curated list of awesome READMEs and tools to create them. [![stars](https://badgen.net/github/stars/matiassingers/awesome-readme)](https://badgen.net/github/stars/matiassingers/awesome-readme)
 
 
 ### FinOps 🤔
