@@ -37,6 +37,7 @@ We at [TechNative](https://technative.nl) help organizations with optimizing the
 * [Code Repositories](#code-repositories)
 * [News](#news)
 * [People and social](#people-and-social)
+* [Friendly Compatitors](#friendly-compatitors)
 * [Other Awesome Lists](#other-awesome-lists)
    * [FinOps <g-emoji class="g-emoji" alias="thinking" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png">🤔</g-emoji>](#finops-)
 * [Contributing](#contributing)
@@ -113,6 +114,7 @@ Community Channels:
 - [Truss](https://truss.works) -  San Francisco based cloud managed services company, with nice [Github](https://github.com/trussworks).
 - [Nuvibut](https://nuvibit.com) - Swiss based cloud managed services company, with [OSS stuff about terraform Workflows](https://github.com/postch/github-terraform-workflows).
 - [Cloud Posse](https://cloudposse.com) - Houston bases cloud managed services company, with a [many OSS projects](https://github.com/cloudposse).
+- [Binbashar](https://www.binbash.com.ar) - Miami Based cloud managed services company, with some cool [OSS Projects](https://github.com/binbashar).
 
 ## Other Awesome Lists
 
