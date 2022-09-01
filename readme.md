@@ -30,6 +30,7 @@ We at [TechNative](https://technative.nl) help organizations with optimizing the
    * [Utilities](#utilities)
    * [EC2](#ec2)
    * [YouTube Channels](#youtube-channels)
+* [Pipelines](#pipelines)
 * [FinOps](#finops)
 * [Learn and get certified](#learn-and-get-certified)
    * [Terraform](#terraform)
@@ -60,14 +61,18 @@ We at [TechNative](https://technative.nl) help organizations with optimizing the
 
 ### YouTube Channels
 
-* [AmazonWebServices](https://www.youtube.com/user/AmazonWebServices)
-* [AWSTutorialSeries](https://www.youtube.com/user/awstutorialseries)
-* [AWSWebinars](https://www.youtube.com/user/AWSwebinars)
+- [AmazonWebServices](https://www.youtube.com/user/AmazonWebServices)
+- [AWSTutorialSeries](https://www.youtube.com/user/awstutorialseries)
+- [AWSWebinars](https://www.youtube.com/user/AWSwebinars)
 
 Community Channels:
 
-* [Backspace Academy](https://www.youtube.com/channel/UCav3fsasRc5VOqvZiT5avgw)
-* [Cloud Academy](https://www.youtube.com/channel/UCeRY0LppLWdxWAymRANTb0g/videos)
+- [Backspace Academy](https://www.youtube.com/channel/UCav3fsasRc5VOqvZiT5avgw)
+- [Cloud Academy](https://www.youtube.com/channel/UCeRY0LppLWdxWAymRANTb0g/videos)
+
+## Pipelines
+
+- [Act](https://github.com/nektos/act) - Run your GitHub Actions locally.[![stars](https://badgen.net/github/stars/nektos/act)](https://badgen.net/github/stars/nektos/act)
 
 ## FinOps
 
