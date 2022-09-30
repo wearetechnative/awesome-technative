@@ -70,6 +70,12 @@ Community Channels:
 - [Backspace Academy](https://www.youtube.com/channel/UCav3fsasRc5VOqvZiT5avgw)
 - [Cloud Academy](https://www.youtube.com/channel/UCeRY0LppLWdxWAymRANTb0g/videos)
 
+### Architecture References
+
+- [AWS Architecture Center](https://aws.amazon.com/architecture) - List of various architectural diagrams that you can use for inspiration.
+- [Prescriptive Guidance](https://aws.amazon.com/prescriptive-guidance) - List of various strategies, guides and patterns for developing in AWS.
+- [AWS Serverless](https://serverlessland.com/) - resource for learning about AWS serverless concepts.
+
 ## Pipelines
 
 - [Act](https://github.com/nektos/act) - Run your GitHub Actions locally.[![stars](https://badgen.net/github/stars/nektos/act)](https://badgen.net/github/stars/nektos/act)
