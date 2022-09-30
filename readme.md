@@ -89,6 +89,8 @@ Community Channels:
 - [DevOps Exercises](https://github.com/bregman-arie/devops-exercises) - Excersises for practicing your DevOps skills.
 - [FinOps Certification and Training](https://learn.finops.org) - Official FinOps Certification and Training.
 - [Linux Professional Institute](https://www.lpi.org) - The Linux Professional Institute for professional Linux Certification
+- [AWS Well-architected Labs](https://wellarchitectedlabs.com) - Various labs provided by AWS that revolves around their Well-architected framework.
+- [AWS Hands-on Labs](https://aws-dojo.com) - Curated list of workshops and labs regarding various AWS services.
 
 ### Terraform
 
