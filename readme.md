@@ -95,6 +95,7 @@ Community Channels:
 ### Terraform
 
 - [AWS Provider Documentation](https://registry.terraform.io/providers/hashicorp/aws/latest/docs) - AWS Provider for Terraform developer documentation.
+- [Terraform Best Practices](https://www.terraform-best-practices.com/) - Recommendations and best practices for working with Terraform.
 
 ## Diagramming
 
