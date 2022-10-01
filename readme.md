@@ -91,6 +91,7 @@ Community Channels:
 - [Linux Professional Institute](https://www.lpi.org) - The Linux Professional Institute for professional Linux Certification
 - [AWS Well-architected Labs](https://wellarchitectedlabs.com) - Various labs provided by AWS that revolves around their Well-architected framework.
 - [AWS Hands-on Labs](https://aws-dojo.com) - Curated list of workshops and labs regarding various AWS services.
+- [dev.to](https://dev.to/) - List of guides on how to implement different technologies
 
 ### Terraform
 
@@ -123,7 +124,7 @@ Community Channels:
 - [@mipselaer](https://twitter.com/mipselaer) - Pim Snel's twitter account.
 - [AWS LinkedIn Groups](https://github.com/donnemartin/awesome-aws#linkedin-groups) - Listing of AWS linkedIn Groups.
 
-## Friendly Compatitors
+## Friendly Competitors
 
 - [Truss](https://truss.works) -  San Francisco based cloud managed services company, with nice [Github](https://github.com/trussworks).
 - [Nuvibut](https://nuvibit.com) - Swiss based cloud managed services company, with [OSS stuff about terraform Workflows](https://github.com/postch/github-terraform-workflows).
