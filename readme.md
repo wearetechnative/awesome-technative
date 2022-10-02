@@ -70,6 +70,12 @@ Community Channels:
 - [Backspace Academy](https://www.youtube.com/channel/UCav3fsasRc5VOqvZiT5avgw)
 - [Cloud Academy](https://www.youtube.com/channel/UCeRY0LppLWdxWAymRANTb0g/videos)
 
+### Architecture References
+
+- [AWS Architecture Center](https://aws.amazon.com/architecture) - List of various architectural diagrams that you can use for inspiration.
+- [Prescriptive Guidance](https://aws.amazon.com/prescriptive-guidance) - List of various strategies, guides and patterns for developing in AWS.
+- [AWS Serverless](https://serverlessland.com/) - resource for learning about AWS serverless concepts.
+
 ## Pipelines
 
 - [Act](https://github.com/nektos/act) - Run your GitHub Actions locally.[![stars](https://badgen.net/github/stars/nektos/act)](https://badgen.net/github/stars/nektos/act)
@@ -83,10 +89,14 @@ Community Channels:
 - [DevOps Exercises](https://github.com/bregman-arie/devops-exercises) - Excersises for practicing your DevOps skills.
 - [FinOps Certification and Training](https://learn.finops.org) - Official FinOps Certification and Training.
 - [Linux Professional Institute](https://www.lpi.org) - The Linux Professional Institute for professional Linux Certification
+- [AWS Well-architected Labs](https://wellarchitectedlabs.com) - Various labs provided by AWS that revolves around their Well-architected framework.
+- [AWS Hands-on Labs](https://aws-dojo.com) - Curated list of workshops and labs regarding various AWS services.
+- [dev.to](https://dev.to/) - List of guides on how to implement different technologies
 
 ### Terraform
 
 - [AWS Provider Documentation](https://registry.terraform.io/providers/hashicorp/aws/latest/docs) - AWS Provider for Terraform developer documentation.
+- [Terraform Best Practices](https://www.terraform-best-practices.com/) - Recommendations and best practices for working with Terraform.
 
 ## Diagramming
 
@@ -114,7 +124,7 @@ Community Channels:
 - [@mipselaer](https://twitter.com/mipselaer) - Pim Snel's twitter account.
 - [AWS LinkedIn Groups](https://github.com/donnemartin/awesome-aws#linkedin-groups) - Listing of AWS linkedIn Groups.
 
-## Friendly Compatitors
+## Friendly Competitors
 
 - [Truss](https://truss.works) -  San Francisco based cloud managed services company, with nice [Github](https://github.com/trussworks).
 - [Nuvibut](https://nuvibit.com) - Swiss based cloud managed services company, with [OSS stuff about terraform Workflows](https://github.com/postch/github-terraform-workflows).
