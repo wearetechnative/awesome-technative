@@ -12,7 +12,7 @@ Curated list of resources engineers need to know when working at TechNative.
 
 <!-- image -->
 
-<a href="" target="_blank" rel="noopener noreferrer">
+<a href="https://technative.nl" target="_blank" rel="noopener noreferrer">
   <img src="awesome-technative.png" />
 </a>
 
