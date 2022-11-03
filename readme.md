@@ -82,7 +82,7 @@ Community Channels:
 - [AWS CLI](https://aws.amazon.com/cli/) - The AWS Command Line Interface (AWS CLI) is a unified tool to manage your AWS services
 - [AWS-MFA](https://github.com/broamski/aws-mfa) - Easily manage your AWS Security Credentials when using Multi-Factor Authentication [![stars](https://badgen.net/github/stars/broamski/aws-mfa)](https://badgen.net/github/stars/broamski/aws-mfa)
 - [Terraform](https://www.terraform.io/) - Automate Infrastructure on Any Cloud. Provision, change, and version resources on any environment.
-- [Anisble](https://ansible.com/) - Ansible® is an open source command-line automation software. It can configure systems, deploy software, and orchestrate advanced workflows.
+- [Ansible](https://ansible.com/) - Ansible® is an open source command-line automation software. It can configure systems, deploy software, and orchestrate advanced workflows.
 - [GHCLI](https://cli.github.com/) - Take GitHub to the command line. GitHub CLI brings GitHub to your terminal. Free and open source.
 - [Docker](https://docker.io) - 
 
