@@ -12,7 +12,7 @@ Curated list of resources engineers need to know when working at TechNative.
 
 <!-- image -->
 
-<a href="https://technative.nl" target="_blank" rel="noopener noreferrer">
+<a href="" target="_blank" rel="noopener noreferrer">
   <img src="awesome-technative.png" />
 </a>
 
@@ -30,11 +30,10 @@ We at [TechNative](https://technative.nl) help organizations with optimizing the
    * [Utilities](#utilities)
    * [EC2](#ec2)
    * [YouTube Channels](#youtube-channels)
-* [Tools](#tools)
 * [Pipelines](#pipelines)
 * [FinOps](#finops)
 * [Learn and get certified](#learn-and-get-certified)
-* [Terraform](#terraform)
+   * [Terraform](#terraform)
 * [Diagramming](#diagramming)
 * [Code Repositories](#code-repositories)
 * [News](#news)
@@ -77,16 +76,6 @@ Community Channels:
 - [Prescriptive Guidance](https://aws.amazon.com/prescriptive-guidance) - List of various strategies, guides and patterns for developing in AWS.
 - [AWS Serverless](https://serverlessland.com/) - resource for learning about AWS serverless concepts.
 
-## Tools
-
-- [AWS CLI](https://aws.amazon.com/cli/) - The AWS Command Line Interface (AWS CLI) is a unified tool to manage your AWS services
-- [AWS-MFA](https://github.com/broamski/aws-mfa) - Easily manage your AWS Security Credentials when using Multi-Factor Authentication [![stars](https://badgen.net/github/stars/broamski/aws-mfa)](https://badgen.net/github/stars/broamski/aws-mfa)
-- [Terraform](https://www.terraform.io/) - Automate Infrastructure on Any Cloud. Provision, change, and version resources on any environment.
-- [Ansible](https://ansible.com/) - Ansible® is an open source command-line automation software. It can configure systems, deploy software, and orchestrate advanced workflows.
-- [GHCLI](https://cli.github.com/) - Take GitHub to the command line. GitHub CLI brings GitHub to your terminal. Free and open source.
-- [Docker](https://docker.io) - 
-
-
 ## Pipelines
 
 - [Act](https://github.com/nektos/act) - Run your GitHub Actions locally.[![stars](https://badgen.net/github/stars/nektos/act)](https://badgen.net/github/stars/nektos/act)
@@ -104,8 +93,7 @@ Community Channels:
 - [AWS Hands-on Labs](https://aws-dojo.com) - Curated list of workshops and labs regarding various AWS services.
 - [dev.to](https://dev.to/) - List of guides on how to implement different technologies
 
-
-## Terraform
+### Terraform
 
 - [AWS Provider Documentation](https://registry.terraform.io/providers/hashicorp/aws/latest/docs) - AWS Provider for Terraform developer documentation.
 - [Terraform Best Practices](https://www.terraform-best-practices.com/) - Recommendations and best practices for working with Terraform.
