@@ -50,6 +50,10 @@ We at [TechNative](https://technative.nl) help organizations with optimizing the
 
 ## AWS
 
+### Terraform Modules
+
+- [https://github.com/nozaq/terraform-aws-remote-state-s3-backend](https://github.com/nozaq/terraform-aws-remote-state-s3-backend) - remote state setup module
+
 ### Utilities
 
 - [Cloud Nuke](https://github.com/gruntwork-io/cloud-nuke) - Cloud cleanup cli utility. Removes a large set of AWS resources. [![stars](https://badgen.net/github/stars/gruntwork-io/cloud-nuke)](https://badgen.net/github/stars/gruntwork-io/cloud-nuke)
