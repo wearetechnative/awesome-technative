@@ -59,7 +59,7 @@ We at [TechNative](https://technative.nl) help organizations with optimizing the
 
 ### Terraform Modules
 
-- [https://github.com/nozaq/terraform-aws-remote-state-s3-backend](https://github.com/nozaq/terraform-aws-remote-state-s3-backend) - remote state setup module
+- [nozaq terraform-aws-remote-state-s3-backend](https://github.com/nozaq/terraform-aws-remote-state-s3-backend) - remote state setup module
 
 ### Utilities
 
@@ -112,7 +112,7 @@ Community Channels:
 ### PackageManagers
 - [Helm](https://helm.sh/) - A package manager for Kubernetes that simplifies deployment and management of applications and services in a cluster.
 - [NPM](https://www.npmjs.com/) - A package manager for Node.js that helps manage and share reusable code libraries with others.
-- [PIP](https://helm.sh/) - A package manager for Python that simplifies installation and management of third-party libraries and dependencies.
+- [PIP](https://pypi.org/project/pip/) - A package manager for Python that simplifies installation and management of third-party libraries and dependencies.
 ### CI/CD
 
 - [Jenkins](https://www.jenkins.io/) - An open source automation server for building, testing, and deploying software.
