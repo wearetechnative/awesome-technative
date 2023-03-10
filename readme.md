@@ -31,6 +31,13 @@ We at [TechNative](https://technative.nl) help organizations with optimizing the
    * [EC2](#ec2)
    * [YouTube Channels](#youtube-channels)
 * [Tools](#tools)
+   * [CLI](#cli)
+   * [Orchestration](#orchestration)
+   * [Database](#database)
+   * [Containerization](#containerization)
+   * [CI/CD](#cicd)
+   * [Infrastructure Monitoring](#infrastructure-monitoring)
+   * [Log Management](#log-management)
 * [Pipelines](#pipelines)
 * [FinOps](#finops)
 * [Learn and get certified](#learn-and-get-certified)
@@ -52,7 +59,7 @@ We at [TechNative](https://technative.nl) help organizations with optimizing the
 
 ### Terraform Modules
 
-- [https://github.com/nozaq/terraform-aws-remote-state-s3-backend](https://github.com/nozaq/terraform-aws-remote-state-s3-backend) - remote state setup module
+- [nozaq terraform-aws-remote-state-s3-backend](https://github.com/nozaq/terraform-aws-remote-state-s3-backend) - remote state setup module
 
 ### Utilities
 
@@ -83,12 +90,46 @@ Community Channels:
 
 ## Tools
 
+### CLI
 - [AWS CLI](https://aws.amazon.com/cli/) - The AWS Command Line Interface (AWS CLI) is a unified tool to manage your AWS services
+- [AWS SSM plugin](https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager-working-with-install-plugin.html) - Start and end sessions that connect you to your managed AWS nodes
 - [AWS-MFA](https://github.com/broamski/aws-mfa) - Easily manage your AWS Security Credentials when using Multi-Factor Authentication [![stars](https://badgen.net/github/stars/broamski/aws-mfa)](https://badgen.net/github/stars/broamski/aws-mfa)
+- [GHCLI](https://cli.github.com/) - Take GitHub to the command line. GitHub CLI brings GitHub to your terminal. Free and open source.
+
+### Orchestration
 - [Terraform](https://www.terraform.io/) - Automate Infrastructure on Any Cloud. Provision, change, and version resources on any environment.
 - [Ansible](https://ansible.com/) - Ansible® is an open source command-line automation software. It can configure systems, deploy software, and orchestrate advanced workflows.
-- [GHCLI](https://cli.github.com/) - Take GitHub to the command line. GitHub CLI brings GitHub to your terminal. Free and open source.
-- [Docker](https://docker.io) - 
+
+### Database
+- [mysql-client](https://dev.mysql.com/doc/refman/8.0/en/mysql.html) - text for the tool
+- [kubectl](https://kubernetes.io/docs/reference/kubectl/kubectl/) - text for the tool
+- [MongoDB Shell](https://www.mongodb.com/docs/mongodb-shell/) - text for the tool
+
+### Containerization
+- [Docker](https://docker.io) - Docker.io is a platform for developing, shipping, and running applications in containers.
+- [Kubernetes](https://kubernetes.io/) - kybernetes is a system for automating deployment, scaling, and management of containerized applications
+
+### PackageManagers
+- [Helm](https://helm.sh/) - A package manager for Kubernetes that simplifies deployment and management of applications and services in a cluster.
+- [NPM](https://www.npmjs.com/) - A package manager for Node.js that helps manage and share reusable code libraries with others.
+- [PIP](https://pypi.org/project/pip/) - A package manager for Python that simplifies installation and management of third-party libraries and dependencies.
+### CI/CD
+
+- [Jenkins](https://www.jenkins.io/) - An open source automation server for building, testing, and deploying software.
+- [Travis CI](https://travis-ci.com/) - A cloud-based, distributed continuous integration service used to build and test software projects.
+- [CircleCI](https://circleci.com/) - A cloud-based platform for continuous integration and deployment that supports multiple languages and frameworks.
+
+### Infrastructure Monitoring
+
+- [Prometheus](https://prometheus.io/) - An open-source monitoring system that collects metrics from targets and stores them in a time-series database.
+- [Grafana](https://grafana.com/) - A data visualization and monitoring platform used to analyze and monitor metrics from various data sources.
+- [Datadog](https://www.datadoghq.com/) - A monitoring and analytics platform that provides full-stack observability for cloud environments.
+
+### Log Management
+
+- [ELK Stack](https://www.elastic.co/what-is/elk-stack) - A collection of three open-source tools for log management: Elasticsearch, Logstash, and Kibana.
+- [Sumo Logic](https://www.sumologic.com/) - A cloud-based log management and analytics service used to identify and resolve operational and security issues.
+- [Splunk](https://www.splunk.com/) - A platform used to search, monitor, and analyze machine-generated data such as log files and event data.
 
 ## Pipelines
 
@@ -141,7 +182,7 @@ Community Channels:
 ## Friendly Competitors
 
 - [Truss](https://truss.works) -  San Francisco based cloud managed services company, with nice [Github](https://github.com/trussworks).
-- [Nuvibut](https://nuvibit.com) - Swiss based cloud managed services company, with [OSS stuff about terraform Workflows](https://github.com/postch/github-terraform-workflows).
+- [Nuvibut](https://nuvibit.com) - Swiss based cloud managed services company.
 - [Cloud Posse](https://cloudposse.com) - Houston bases cloud managed services company, with a [many OSS projects](https://github.com/cloudposse).
 - [Binbashar](https://www.binbash.com.ar) - Miami Based cloud managed services company, with some cool [OSS Projects](https://github.com/binbashar).
 
