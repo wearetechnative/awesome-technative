@@ -182,7 +182,7 @@ Community Channels:
 ## Friendly Competitors
 
 - [Truss](https://truss.works) -  San Francisco based cloud managed services company, with nice [Github](https://github.com/trussworks).
-- [Nuvibut](https://nuvibit.com) - Swiss based cloud managed services company, with [OSS stuff about terraform Workflows](https://github.com/postch/github-terraform-workflows).
+- [Nuvibut](https://nuvibit.com) - Swiss based cloud managed services company.
 - [Cloud Posse](https://cloudposse.com) - Houston bases cloud managed services company, with a [many OSS projects](https://github.com/cloudposse).
 - [Binbashar](https://www.binbash.com.ar) - Miami Based cloud managed services company, with some cool [OSS Projects](https://github.com/binbashar).
 
