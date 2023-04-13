@@ -213,4 +213,4 @@ Other awesome lists can be found in [awesome](https://github.com/sindresorhus/aw
 
 ## Copyright
 
-©2022 [TechNative B.V.](https://technative.nl) - The TechNative Logo the TechNative Cool Guy are protected trademarks. Other content is available under a [Apache License](./license).
+©2023 [TechNative B.V.](https://technative.nl) - The TechNative Logo the TechNative Cool Guy are protected trademarks. Other content is available under a [Apache License](./license).
