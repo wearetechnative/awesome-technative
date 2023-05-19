@@ -4,7 +4,7 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome TechNative [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/TechNative-B-V/awesome-technative/actions/workflows/lint.yaml/badge.svg)](https://github.com/TechNative-B-V/awesome-technative/actions/workflows/lint.yaml)
+# Awesome TechNative [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/wearetechnative/awesome-technative/actions/workflows/lint.yaml/badge.svg)](https://github.com/wearetechnative/awesome-technative/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
@@ -160,7 +160,7 @@ Community Channels:
 
 ## Code Repositories
 
-- [github.com/TechNative-B-V](https://github.com/TechNative-B-V) - TechNative's GitHub repositories.
+- [github.com/wearetechnative](https://github.com/wearetechnative) - TechNative's GitHub repositories.
 - [gitlab.com/technative](https://gitlab.com/technative) - TechNative's GitLab repositories.
 
 ## News
@@ -209,7 +209,7 @@ Other awesome lists can be found in [awesome](https://github.com/sindresorhus/aw
 
 ### Contributors
 
-[Thanks goes to these contributors](https://github.com/TechNative-B-V/awesome-technative/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/wearetechnative/awesome-technative/graphs/contributors)!
 
 ## Copyright
 
