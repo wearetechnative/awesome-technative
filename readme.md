@@ -70,6 +70,7 @@ We at [TechNative](https://technative.nl) help organizations with optimizing the
 ### EC2
 
 - https://instances.vantage.sh - Easy Amazon EC2 Instance Comparison.
+- https://www.packer.io - Baking EC2 images in a sophisticated way.
 
 ### YouTube Channels
 
