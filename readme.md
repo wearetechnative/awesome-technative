@@ -95,7 +95,9 @@ Community Channels:
 - [AWS CLI](https://aws.amazon.com/cli/) - The AWS Command Line Interface (AWS CLI) is a unified tool to manage your AWS services
 - [AWS SSM plugin](https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager-working-with-install-plugin.html) - Start and end sessions that connect you to your managed AWS nodes
 - [AWS-MFA](https://github.com/broamski/aws-mfa) - Easily manage your AWS Security Credentials when using Multi-Factor Authentication [![stars](https://badgen.net/github/stars/broamski/aws-mfa)](https://badgen.net/github/stars/broamski/aws-mfa)
+- [SSMSH](https://github.com/bwhaley/ssmsh) - A shell for the AWS EC2 Parameter Store
 - [GHCLI](https://cli.github.com/) - Take GitHub to the command line. GitHub CLI brings GitHub to your terminal. Free and open source.
+- [Cw](https://github.com/lucagrulla/cw) - The best way to tail AWS CloudWatch Logs from your terminal
 
 ### Orchestration
 - [Terraform](https://www.terraform.io/) - Automate Infrastructure on Any Cloud. Provision, change, and version resources on any environment.
