@@ -43,4 +43,4 @@ jobs:
         - name: "install awesome-bot"
           run: gem install awesome_bot
         - name: "linting: ${{ matrix.files }}"
-          run: awesome_bot --allow-redirect --white-list https://github.com/TechNative-B-V/awesome-technative,www.linkedin.com,technative.nl,badgen.net ${{ matrix.files }}
+          run: awesome_bot --allow-redirect --white-list https://github.com/TechNative-B-V/awesome-technative,www.linkedin.com,technative.nl,badgen.net,learn.finops.org,infraweekly.substack.com ${{ matrix.files }}
