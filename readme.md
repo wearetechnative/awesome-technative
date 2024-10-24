@@ -66,6 +66,7 @@ We at [TechNative](https://technative.nl) help organizations with optimizing the
 - [Cloud Nuke](https://github.com/gruntwork-io/cloud-nuke) - Cloud cleanup cli utility. Removes a large set of AWS resources. [![stars](https://badgen.net/github/stars/gruntwork-io/cloud-nuke)](https://badgen.net/github/stars/gruntwork-io/cloud-nuke)
 - [AWSweeper](https://github.com/jckuester/awsweeper) - A tool for cleaning your AWS account. [![stars](https://badgen.net/github/stars/jckuester/awsweeper)](https://badgen.net/github/stars/jckuester/awsweeper)
 - [AWS Extend Switch Roles](https://github.com/tilfinltd/aws-extend-switch-roles) - Firefox, Chrome & Edge extension for easily switching AWS accounts. [![stars](https://badgen.net/github/stars/tilfinltd/aws-extend-switch-roles)](https://badgen.net/github/stars/tilfinltd/aws-extend-switch-roles)
+- [AWS Latencies](https://benjdd.com/aws/) - AWS data center latencies, visualized (click on a DC to see results)
 
 ### EC2
 
