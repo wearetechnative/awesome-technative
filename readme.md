@@ -164,7 +164,15 @@ Community Channels:
 
 ## Code Repositories
 
-- [github.com/wearetechnative](https://github.com/wearetechnative) - TechNative's GitHub repositories.
+### GitHub organizations
+- [github.com/wearetechnative](https://github.com/wearetechnative) - TechNative's Open Source GitHub repositories.
+- [gitlab.com/technative-b-v](https://gitlab.com/technative-b-v) - TechNative's first and original repositories.
+- [gitlab.com/technative-website](https://gitlab.com/technative-website) - TechNative's Website repositories.
+- [gitlab.com/technative-mcs](https://gitlab.com/technative-mcs) - TechNative's Managed Services repositories.
+- [gitlab.com/technative-compliance](https://gitlab.com/technative-compliance) - TechNative's Compliance repositories.
+- [gitlab.com/technative-university](https://gitlab.com/technative-university) - TechNative's Learning repositories.
+
+### Gitlab
 - [gitlab.com/technative](https://gitlab.com/technative) - TechNative's GitLab repositories.
 
 ## News
